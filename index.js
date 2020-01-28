@@ -1,7 +1,7 @@
 const Commando = require('discord.js-commando');
 
 const client = new Commando.Client({
-    commandPrefix: '?',
+    commandPrefix: 'alexa ',
     owner: ['250066425673285632', '600483662785413142', '216285227142742018']
 })
 
