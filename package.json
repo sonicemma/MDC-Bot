@@ -1,0 +1,17 @@
+{
+  "name": "mdc-bot",
+  "version": "0.0.0",
+  "description": "A general purpose discord bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jeengland",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "heroku": "^7.37.0",
+    "sqlite": "^3.0.3"
+  }
+}
